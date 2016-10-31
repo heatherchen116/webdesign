@@ -1,1 +1,1 @@
-This is a redesign of AZ Lyrics.
+This is a redesign of AZ Lyrics. This project was done in a team with Dennis Yang and Rosa Choe. 
